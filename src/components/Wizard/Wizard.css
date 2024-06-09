@@ -1,0 +1,16 @@
+/* "  */
+
+
+.wizard {
+    display: block;
+    -webkit-user-select: none;
+    user-select: none;
+    margin: auto;
+    background-color: hsl(0, 0%, 90%);
+    mix-blend-mode: multiply;
+    object-fit: contain;
+    width: 100px;
+    position: absolute;
+    perspective: 1000px;
+
+}
